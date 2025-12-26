@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Icebreak icon large">
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f172a" />
+      <stop offset="1" stop-color="#1f2a44" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="url(#g2)" />
+  <path
+    d="M256 112v288M136 256h240M180 150l152 212M180 362l152-212"
+    stroke="#7cc3ff"
+    stroke-width="22"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="256" cy="256" r="54" fill="#d6ecff" />
+</svg>
+
